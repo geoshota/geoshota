@@ -27,7 +27,10 @@ I'm interested in Geographic spatial data analysis of disasters using the analys
 
 ## 🏆 **受賞**
 ### **2021年**  
-- Yahoo賞(Civictech Challenge Cup U-22)  
+- Yahoo賞(Civictech Challenge Cup U-22) 
+  
+Civictech Challenge Cup U-22で開発した「なみ逃げ」に関する紹介は[こちらから]()
+
   >- [駒澤大学広報紹介ページ](https://www.komazawa-u.ac.jp/news/extracurricular/2021/1215-10942.html)
   >- [プロダクト概要](https://hackmd.io/@goEztN4ITr6_QPGyhqP-9g/rkaz2W3f9?fbclid=PAZXh0bgNhZW0CMTEAAabmKU7M4kgvWlF1fUVnETmeep4m7NJlPleZdQnLR7fv-m5IUxhIce2lbgQ_aem_8Z62qI2RRWkHwRc0imO89A)
   >- [Civictech Challenge Cup U-22最終審査会アーカイブ配信](https://www.youtube.com/watch?v=PB4Wg-y1JrI)
