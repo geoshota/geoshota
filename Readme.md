@@ -122,7 +122,7 @@ I'm interested in Geographic spatial data analysis of disasters using the analys
 
 ## **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,vscode,blender,notion,flutter,figma)](https://skillicons.dev)
 
 <br>
 
