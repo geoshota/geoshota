@@ -8,7 +8,7 @@
 - **Gmail:** 1nr1041s@komazawa-u.ac.jp（進学の都合上3月まで有効です）
 
 ## 🌏 **関心領域**
-後で書く
+I'm interested in Geographic spatial data analysis of disasters using the analysis and visualization methodologies of GIS (geographic information science).
 
 ## 📖 **論文**
 - **2024年度卒業論文:**  
