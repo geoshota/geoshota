@@ -89,7 +89,8 @@ I'm interested in Geographic spatial data analysis of disasters using the analys
 - **2025年3月16日:**
   *日本地理教育学会全国地理学専攻学生卒業論文発表大会*
  
-  [大会案内](https://www.geoedu.jp/sotsuron.html)（引用：地理教育学会HP）
+  [大会案内](https://www.geoedu.jp/sotsuron.html)（引用：日本地理教育学会HP）
+  >なお，要旨・発表内容についてはHPに公表され次第，共有いたします。また，要旨については日本地理教育学会学会機関誌「新地理（２号）」に掲載される予定です。
 
 - **2025年3月19日～3月21日:**
   *日本地理学会春季学術大会*
