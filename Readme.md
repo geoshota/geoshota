@@ -88,3 +88,5 @@ I'm interested in Geographic spatial data analysis of disasters using the analys
   >中学1種・社会  
   >高校1種・地歴  
   >高校1種・公民
+
+![view count](https://komarev.com/ghpvc/?profiel_public&color=blue)
