@@ -51,7 +51,9 @@
   [実施要項](https://www2.iwate-ed.jp/kas-h/contents/R6/full/SSH_presentation.pdf)（引用：釜石高校HP）
 - **2025年3月16日:**
   *日本地理教育学会全国地理学専攻学生卒業論文発表大会*
+ 
   [大会案内](https://www.geoedu.jp/sotsuron.html)（引用：地理教育学会HP）
+
 - **2025年3月19日～3月21日:**
   *日本地理学会春季学術大会*
 
