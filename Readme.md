@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 **自己紹介**
 - **名前:児玉　尚汰（こだま　しょうた）** 
-- **出身：** 岩手県大槌町
+- **出身：** 岩手県
 - **所属:** 駒澤大学文学部地理学科地域文化研究専攻  
   **所属研究室:** [瀬戸寿一研究室](https://tossetolab.github.io/)  
 - **Gmail:** 1nr1041s@komazawa-u.ac.jp（進学の都合上3月まで有効です）
@@ -17,7 +17,7 @@
 I'm interested in Geographic spatial data analysis of disasters using the analysis and visualization methodologies of GIS (geographic information science).
 
 ## 📖 **論文**
-- **2024年度卒業論文:**  
+- **2024年度卒業論文:** [要旨はこちら](./docs/graduation_thesis_abstract.md) 
   >*岩手県大槌町における災害弱者の行動分析 - 東南アジア系外国人労働者を事例に -*
 
 ## 🎓 **学歴**
