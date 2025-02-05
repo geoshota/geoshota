@@ -13,6 +13,7 @@
  - `地理情報科学` `社会地理学` `都市地理学` `災害論` `行動地理学`
 
 **主な研究テーマ・関心**
+
 I'm interested in Geographic spatial data analysis of disasters using the analysis and visualization methodologies of GIS (geographic information science).
 
 ## 📖 **論文**
