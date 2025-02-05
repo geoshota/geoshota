@@ -89,4 +89,11 @@ I'm interested in Geographic spatial data analysis of disasters using the analys
   >高校1種・地歴  
   >高校1種・公民
 
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,)](https://skillicons.dev)
+
+<br>
+
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=your-repo-url&title=views)
