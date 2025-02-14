@@ -71,7 +71,7 @@
   >- [プロダクト概要](https://hackmd.io/@goEztN4ITr6_QPGyhqP-9g/rkaz2W3f9?fbclid=PAZXh0bgNhZW0CMTEAAabmKU7M4kgvWlF1fUVnETmeep4m7NJlPleZdQnLR7fv-m5IUxhIce2lbgQ_aem_8Z62qI2RRWkHwRc0imO89A)
   >- [Civictech Challenge Cup U-22最終審査会アーカイブ配信](https://www.youtube.com/watch?v=PB4Wg-y1JrI)
   >- [Civictech Challenge Cup U-22公式ホームページ](https://ccc2021.code4japan.org/)
-  >- [Rタイムズプレスリリース（2021年10月18日）](https://prtimes.jp/main/html/rd/p/000000039.000039198.html)
+  >- [PRタイムズプレスリリース（2021年10月18日）](https://prtimes.jp/main/html/rd/p/000000039.000039198.html)
 
 ### 2022年(学部2年) 
 - 学長奨励賞  
