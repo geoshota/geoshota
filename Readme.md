@@ -138,3 +138,9 @@
 [![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,vscode,blender,notion,flutter,figma)](https://skillicons.dev)
 
 <br>
+
+<p align="left"> 
+  <a href="https://github.com/geoshota/geoshota/">
+    <img src="https://komarev.com/ghpvc/?username=geoshota" alt="geoshota" />
+  </a>
+</p>
