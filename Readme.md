@@ -59,7 +59,7 @@
 
 ## 🎓 **学歴**
 - **2025年4月:** [東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/)博士前期課程 進学予定
-- **2025年3月:** [駒澤大学文学部地理学科地域文化研究専攻](https://www.komazawa-u.ac.jp/gakubu/bun/geography/) 卒業予定
+- **2025年3月:** [駒澤大学文学部地理学科地域文化研究専攻](https://www.komazawa-u.ac.jp/gakubu/bun/geography/) 卒業
 - **2021年3月:** [岩手県立釜石高等学校](https://www2.iwate-ed.jp/kas-h/) 卒業
 
 
