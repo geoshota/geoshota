@@ -85,14 +85,14 @@
 ### 2023年(学部3年) 
 - 令和5年度学長学業奨励賞  
   >-  [「令和5年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2023/0512-14306.html)
-  >- [オープンバッチ](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z0ZhSDZNVVVQWWpORk9vVTgwYm9OUT09)
+  >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z0ZhSDZNVVVQWWpORk9vVTgwYm9OUT09)
 
 ### 2024年(学部4年) 
 - 学業成績優秀者奨学金奨学生  
   > [「「令和6年度学業成績優秀者奨学金」の奨学生が決定しました」](https://www.komazawa-u.ac.jp/news/event/2024/0520-15747.html)
 - 令和6年度学長学業奨励賞  
-  > [「令和6年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2024/0704-15935.html)
-
+  >- [「令和6年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2024/0704-15935.html)
+  >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z2gzMXR4ajFuZkZYSDFXTmZZQXhiQT09)
 
 ## 🎤 **学会発表・講演（予定も含む）**
 - **2025年2月15日:**
@@ -113,7 +113,7 @@
 
 ## 📚 **担当経験のある科目（授業）**
 - **2024年4月～2025年1月:** 
-地域文化演習D (SA)(駒澤大学)
+地域文化演習D (SA)(駒澤大学) [OpenBadge]()
 
  >![openbadge](figure/SA_openbadge.png)
 
