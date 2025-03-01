@@ -85,6 +85,7 @@
 ### 2023年(学部3年) 
 - 令和5年度学長学業奨励賞  
   > [「令和5年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2023/0512-14306.html)
+  >[オープンバッチ](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z0ZhSDZNVVVQWWpORk9vVTgwYm9OUT09)
 
 ### 2024年(学部4年) 
 - 学業成績優秀者奨学金奨学生  
