@@ -93,6 +93,7 @@
 - 令和6年度学長学業奨励賞  
   >- [「令和6年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2024/0704-15935.html)
   >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z2gzMXR4ajFuZkZYSDFXTmZZQXhiQT09)
+- 令和6年度学長賞
 
 ## 🎤 **学会発表・招待講演**
 - **2025年2月15日:**
