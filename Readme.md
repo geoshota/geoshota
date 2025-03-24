@@ -97,6 +97,8 @@
   >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R0I1Y1Rpc1c3WEQ1NFRkMDJIVGxkUT09)
 - 駒澤大学応用地理研究所・若手地理学研究者育成制度
   >本助成は，2025年日本地理学会春季学術大会（駒澤大学）創立百周年記念での発表に際して受けたものになります
+- 令和6年度地理学科特別賞
+- 令和6年度地理学科奨励賞
 
 ## 🎤 **学会発表・招待講演**
 - **2025年2月15日:**
