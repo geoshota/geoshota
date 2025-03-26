@@ -25,8 +25,8 @@
 
 ## 🧑‍💻 **自己紹介** 
 - **出身：** 岩手県
-- **所属:** 駒澤大学文学部地理学科地域文化研究専攻  
-  **所属研究室:** [瀬戸寿一研究室](https://tossetolab.github.io/)  
+- **所属：** 東北大学大学院環境科学研究科博士課程前期先端環境創成学専攻  
+- **所属研究室：**  [TOMOKI NAKAYA LAB](https://nakaya-geolab.com/)  
 
 
 ## 🌏 **関心領域**
@@ -58,7 +58,7 @@
 
 
 ## 🎓 **学歴**
-- **2025年4月:** [東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/)博士前期課程 進学予定
+- **2025年4月:** [東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/)博士前期課程
 - **2025年3月:** [駒澤大学文学部地理学科地域文化研究専攻](https://www.komazawa-u.ac.jp/gakubu/bun/geography/) 卒業
 - **2021年3月:** [岩手県立釜石高等学校](https://www2.iwate-ed.jp/kas-h/) 卒業
 
@@ -95,10 +95,11 @@
   >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z2gzMXR4ajFuZkZYSDFXTmZZQXhiQT09)
 - 令和6年度学長賞
   >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R0I1Y1Rpc1c3WEQ1NFRkMDJIVGxkUT09)
-- 駒澤大学応用地理研究所・若手地理学研究者育成制度
-  >本助成は，2025年日本地理学会春季学術大会（駒澤大学）創立百周年記念での発表に際して受けました
 - 令和6年度地理学科特別賞
 - 令和6年度地理学科奨励賞
+- 駒澤大学応用地理研究所・若手地理学研究者育成制度
+  >本助成は，2025年日本地理学会春季学術大会（駒澤大学）創立百周年記念での発表に際して受けました
+
 
 ## 🎤 **学会発表・招待講演**
 - **2025年2月15日:**
