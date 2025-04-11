@@ -26,7 +26,8 @@
 ## 🧑‍💻 **自己紹介** 
 - **出身：** 岩手県
 - **所属：** 東北大学大学院環境科学研究科博士課程前期先端環境創成学専攻  
-- **所属研究室：**  [TOMOKI NAKAYA LAB](https://nakaya-geolab.com/)  
+- **所属研究室：**  [中谷友樹研究室](https://nakaya-geolab.com/)  
+- **所属研究グループ：**[東北大学人文地理学グループ](https://sites.google.com/view/humangeo)
 
 
 ## 🌏 **関心領域**
