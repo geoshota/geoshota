@@ -1,184 +1,447 @@
-# 👨‍🎓 **Profile**
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoshota&theme=default" alt="GitHub Profile Summary" />
-
-## **Index**
-
-- [👨‍🎓 **Profile**](#-profile)
-  - [**Index**](#index)
-  - [🧑‍💻 **自己紹介**](#-自己紹介)
-  - [🌏 **関心領域**](#-関心領域)
-  - [📖 **論文**](#-論文)
-  - [🎓 **学歴**](#-学歴)
-  - [🏆 **受賞**](#-受賞)
-    - [2021年(学部1年)](#2021年学部1年)
-    - [2022年(学部2年)](#2022年学部2年)
-    - [2023年(学部3年)](#2023年学部3年)
-    - [2024年(学部4年)](#2024年学部4年)
-  - [🎤 **学会発表・招待講演**](#-学会発表招待講演)
-  - [📚 **担当経験のある科目（授業）**](#-担当経験のある科目授業)
-  - [🔬 **学術貢献活動**](#-学術貢献活動)
-  - [🏛 **所属学会**](#-所属学会)
-  - [📜 **資格（3月取得予定）**](#-資格3月取得予定)
-  - [**My Skills**](#my-skills)
-
-
-## 🧑‍💻 **自己紹介** 
-- **出身：** 岩手県
-- **所属：** 東北大学大学院環境科学研究科先端環境創成学専攻文化環境学コース環境地理学分野・博士課程前期  
-- **所属研究室：**  [中谷友樹研究室](https://nakaya-geolab.com/)  
-- **所属研究グループ：**[東北大学人文地理学グループ](https://sites.google.com/view/humangeo) ・ [社会調査・地域統計研究グループ(日本地理学会)](https://sites.google.com/view/srrs-rg)
-
-
-## 🌏 **関心領域**
-**分野:**
-
- - `地理情報科学` `社会地理学` `都市地理学` `災害論` `行動地理学`
-
-**主な研究テーマ・関心**
-
-　災害研究におけるリスク論の古典的な概念の１つとして，Blaikrie et al., (1994)が提唱した**災害リスク方程式**がある。本概念は，主に**H：hazard(ハザード), V:vulnerability(脆弱性), E:exposure(曝露)**によって構成される**災害被害規模の確率論的期待値**[（中谷 2021）](https://researchmap.jp/tomo.nakaya/published_papers/33213621)である。このうち，災害リスクの一構成要素である「脆弱性」は，災害弱者を捉える際の「**鍵概念**」[（内山 2024）](https://researchmap.jp/Ugt2CcsPqwWZu3lH/published_papers/48263722)として用いられている。既往研究における議論の中では，そのような性質を持つ**脆弱性概念**を定量的に評価し，防災のための計画や政策を決定する道具として用いようとする試みが進んでいる。（Gipta et al., 1996: Davinson et al., 1997,2000: Hill and Cutter, 2001: UNDP, 2003: Yarnal et al., 2002: Gheorghe, 2003)
-
-　一方で，**定性的な情報と定量的なデータ**をバランスよく用いて議論を組み立て，**脆弱性をどこまで定量化して表現できるか**という点には課題が残っている（ベン・ワイズナーほか 2010）とされ，この点について研究の余地がある。
-
-　以上の議論を基に，卒業論文段階から焦点を当てている**技能実習生**を事例としながら，被災3県における，彼らの個人・集団行動の個別データから，**空間的・社会集団の差異・不平等，各国の災害に対する空間認知や行動様式**を日常的な視点で明らかにすることで，彼らが有する災害脆弱性の解明を目指している。
-
-　先に挙げた[分野](#-関心領域)の中でも，前述の課題に対応する定性的な情報として，地理学の中で特別な関心を払ってきた[**行動地理学**](#-関心領域)や[**社会地理学**](#-関心領域)的な視点によるものがある。他方，定量的なデータとして，[**Kwan(2004)**](http://www.meipokwan.org/)に代表されるような人流データや統計，地理的な位置が付与された情報の**地理情報科学**を活用した視覚化がある。この両面から以上述べた研究テーマに取り組む必要があると考えており，具体的には卒業論文での結果を基に統計&社会科学系データによる検討を加え，議論に上積みする形で，
-
->・マルチスケールにおける，災害に対する脆弱性を定量化して表現する方法論の追究
-
->・ホスト社会と外国人の媒介効果を構成する要素の追究
-
->・災害リスク方程式( Blaikrie et al., 1994) を構成する要素の数値化と視覚化によるモデリング
-
-のような研究に取り組みたい。
-
-## 📖 **論文**
-- **2024年度卒業論文:** [要旨はこちら](./docs/graduation_thesis_abstract.md) 
-  >*岩手県大槌町における災害弱者の行動分析 - 東南アジア系外国人労働者を事例に -*
-
-
-## 🎓 **学歴**
-- **2025年4月:** [東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/)博士前期課程
-- **2025年3月:** [駒澤大学文学部地理学科地域文化研究専攻](https://www.komazawa-u.ac.jp/gakubu/bun/geography/) 卒業
-- **2021年3月:** [岩手県立釜石高等学校](https://www2.iwate-ed.jp/kas-h/) 卒業
-
-
-## 🏆 **受賞**
-### 2021年(学部1年) 
-- Yahoo賞(Civictech Challenge Cup U-22) 
-  
-   Civictech Challenge Cup U-22で開発した「なみ逃げ」に関する紹介は[こちらから](./docs/Civictech%20Challenge%20Cup%20U-22.md)
-
-  >- [駒澤大学広報紹介ページ](https://www.komazawa-u.ac.jp/news/extracurricular/2021/1215-10942.html)
-  >- [プロダクト概要](https://hackmd.io/@goEztN4ITr6_QPGyhqP-9g/rkaz2W3f9?fbclid=PAZXh0bgNhZW0CMTEAAabmKU7M4kgvWlF1fUVnETmeep4m7NJlPleZdQnLR7fv-m5IUxhIce2lbgQ_aem_8Z62qI2RRWkHwRc0imO89A)
-  >- [Civictech Challenge Cup U-22最終審査会アーカイブ配信](https://www.youtube.com/watch?v=PB4Wg-y1JrI)
-  >- [Civictech Challenge Cup U-22公式ホームページ](https://ccc2021.code4japan.org/)
-  >- [PRタイムズプレスリリース（2021年10月18日）](https://prtimes.jp/main/html/rd/p/000000039.000039198.html)
-
-### 2022年(学部2年) 
-- 学長奨励賞  
-  >- [「令和4年度 学長賞・学長奨励賞」の授与式が行われました](https://www.komazawa-u.ac.jp/news/event/2022/0320-14040.html)
-  >- [大学広報（2022年3月23日発行）](https://www.komazawa-u.ac.jp/about/public-relations/news/2022/0330-11791.html)
-- 令和4年度学長学業奨励賞  
-  > [「令和4年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2022/0623-12238.html)
-
-### 2023年(学部3年) 
-- 令和5年度学長学業奨励賞  
-  >-  [「令和5年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2023/0512-14306.html)
-  >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z0ZhSDZNVVVQWWpORk9vVTgwYm9OUT09)
-
-### 2024年(学部4年) 
-- 学業成績優秀者奨学金奨学生  
-  > [「「令和6年度学業成績優秀者奨学金」の奨学生が決定しました」](https://www.komazawa-u.ac.jp/news/event/2024/0520-15747.html)
-- 令和6年度学長学業奨励賞  
-  >- [「令和6年度 学長学業奨励賞」の授与式を執り行いました](https://www.komazawa-u.ac.jp/news/event/2024/0704-15935.html)
-  >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z2gzMXR4ajFuZkZYSDFXTmZZQXhiQT09)
-- 令和6年度学長賞
-  >- [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R0I1Y1Rpc1c3WEQ1NFRkMDJIVGxkUT09)
-- 令和6年度地理学科特別賞
-- 令和6年度地理学科奨励賞
-- [駒澤大学応用地理研究所](https://www.komazawa-u.ac.jp/gakubu/bun/geography/iag/iag_j.html)・若手地理学研究者育成制度
-  >本助成は，2025年日本地理学会春季学術大会（駒澤大学）創立百周年記念での発表に際して受けました
-
-
-## 🎤 **学会発表・招待講演**
-- **2025年2月15日:**
-  *令和6年度釜石高等学校SSH課題研究発表会・研究成果報告会* (講演・助言者)
-  >- 講演「SSH探究活動と発展的研究」 発表の様子は[こちら](./docs/SSH_seminar.md)から
-
-  [実施要項](https://www2.iwate-ed.jp/kas-h/contents/R6/full/SSH_presentation.pdf)（引用：釜石高校HP）
-
-- **2025年3月16日:**
-  *日本地理教育学会全国地理学専攻学生卒業論文発表大会*
- 
-  [大会案内](https://www.geoedu.jp/sotsuron.html)（引用：日本地理教育学会HP）
-  
-  [大会プログラム](https://www.geoedu.jp/sotupro2024.pdf)（引用：日本地理教育学会HP）
-  >なお，要旨・発表内容についてはHPに公表され次第，共有いたします。また，要旨については日本地理教育学会学会機関誌「新地理（２号）」に掲載される予定です。
-
-- **2025年3月19日～3月21日:**
-  *2025年日本地理学会春季学術大会*
-  >- [大会プログラム](https://www.ajg.or.jp/wp-content/uploads/2025/03/s2025_program.pdf)（引用：日本地理学会HP）
-  >- [発表要旨](https://www.jstage.jst.go.jp/article/ajg/2025s/0/2025s_162/_pdf/-char/ja)
-  >- 本発表は，[駒澤大学応用地理研究所・若手地理学研究者育成制度](#-受賞)による助成を受けました
-
-- **2025年9月20日～9月22日:**
-  *2025年日本地理学会秋季学術大会*
-  >- **発表演題**：小坪将輝・関根良平・磯田弦・井上大輝・児玉尚汰・菅井翔・田中文理・中尾太一・中谷友樹(東北大). **仙台市中心部における放置自転車の空間的分布**
-  >- [大会プログラム](https://www.ajg.or.jp/wp-content/uploads/2025/08/a2025_program.pdf)（引用：日本地理学会HP）
-  >- [発表要旨](https://www.jstage.jst.go.jp/article/ajg/2025a/0/2025a_22/_pdf/-char/ja)
-
-- **2026年2月日:**
-  *令和 7年度岩手県立釜石高等学校 SSH 課題研究発表会・研究成果報告会*
-  >- **発表演題**： **地図を武器に社会の課題へ挑む『地理情報科学』の世界**　児玉尚汰(東北大・院).
-
-## 📚 **担当経験のある科目（授業）**
-- **2024年4月～2025年1月:** 
-
-   地域文化演習D (SA)(駒澤大学) [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/aUZIUW9wZHB0VGVKSkdHV2U2UVQwQT09)
-
- >![openbadge](figure/SA_openbadge.png)
-
-- **2025年10月～2026年1月:** 
-
-   地理学 (TA)(東北大学)
-
-## 🔬 **学術貢献活動**
-- **分析データの整理:** 
-> *瀬戸寿一 2024. データ品質検証ツールを用いたOpenStreetMapにおける編集傾向と特徴. 地理情報システム学会講演論文集33:1-4.*  
-  [researchmap](https://researchmap.jp/tosseto/published_papers/48310292)
-
-- **評者の討論に参加**
-> *瀬戸寿一 2025. 書評 ロブ・キチン, トレーシー・P・ローリオ, マシュー・W・ウィルソン編『空間メディアを理解すること』 駒澤地理61:43-47.*
-> [https://doi.org/10.69200/0002033845](https://komazawa-u.repo.nii.ac.jp/records/2033845)
-
-- **データの収集作業に協力**
->*瀬戸寿一 2025. 「地理情報科学と技術の知識体系」改訂版の内容分析から探る現代の地図・GIS 教育ニーズ. 地図 63(2):53-64.
-[researchmap](https://researchmap.jp/tosseto/published_papers/50726110)
-
-## 🏛 **所属学会**
-- 日本地理学会（2025年～）
-
-
-## 📜 **資格（3月取得予定）**
-- GIS学術士
-- 地域調査士
-- 測量士補
-- 教員免許  
-  >中学1種・社会  
-  >高校1種・地歴  
-  >高校1種・公民
-
-
-## **My Skills**
-
-[![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,vscode,blender,notion,flutter,figma)](https://skillicons.dev)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12121f,100:1a1a2e&height=140&section=header&text=Shota%20Kodama&fontSize=36&fontColor=888899&fontAlignY=52&desc=%E5%85%90%E7%8E%89%20%E5%B0%9A%E6%B1%B0%20%E3%83%BB%20Environment%20Geography%20%E3%83%BB%20Tohoku%20University&descAlignY=74&descSize=13&descColor=555566&animation=fadeIn" width="100%"/>
 
 <br>
 
-<p align="left"> 
-  <a href="https://github.com/geoshota/geoshota/">
-    <img src="https://komarev.com/ghpvc/?username=geoshota" alt="geoshota" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=300&size=13&duration=4000&pause=2500&color=666677&center=true&vCenter=true&width=700&lines=GIS+%2F+Behavioral+Geography+%2F+Disaster+Studies;Spatiotemporal+analysis+of+technical+intern+trainees;Mixed+methods+approach+to+spatial+vulnerability" alt="Typing SVG" />
+
+<br>
+
+[![](https://img.shields.io/badge/Nakaya_GeoLab-1e1e2e?style=flat-square&logo=academia&logoColor=888899)](https://nakaya-geolab.com/)
+[![](https://img.shields.io/badge/Human_Geo_Group-1e1e2e?style=flat-square&logo=googlemaps&logoColor=888899)](https://sites.google.com/view/humangeo)
+[![](https://img.shields.io/badge/SRRS--RG-1e1e2e?style=flat-square&logo=googlemaps&logoColor=888899)](https://sites.google.com/view/srrs-rg)
+[![](https://img.shields.io/badge/Sendai,_Miyagi-1e1e2e?style=flat-square&logo=googlemaps&logoColor=888899)](https://www.google.com/maps/place/Sendai)
+
+</div>
+
+<br>
+
+---
+
+## 🧑‍💻 自己紹介
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+
+時間地理学的アプローチを用いて、**生活活動の時空間パターンと行動の自由度**に焦点をあてながら、制度的制約・個人の主観的認識・社会統合度という3つの視点から、技能実習生が置かれた状況の多面的な解明に関する研究に取り組んでいます。
+
+<br>
+
+|  | **詳細** |
+|:---:|---|
+| 🎓 | [東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/) 先端環境創成学専攻 博士前期課程 |
+| 🔬 | [中谷友樹研究室](https://nakaya-geolab.com/) （環境地理学分野） |
+| 🎯 | **修士論文テーマ**：東日本大震災被災地における外国人技能実習生の生活活動分析 |
+| 🤝 | [東北大学人文地理学グループ](https://sites.google.com/view/humangeo) |
+| 📊 | [社会調査・地域統計研究グループ](https://sites.google.com/view/srrs-rg) （日本地理学会） |
+
+</td>
+<td width="44%" align="center" valign="top">
+
+<img src="https://github.com/geoshota.png" width="120" style="border-radius:12px; box-shadow: 0 4px 12px rgba(136,136,153,0.2);"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=geoshota&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=777788&text_color=555566&icon_color=4b4b5e&rank_icon=github&count_private=true" width="280" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🌏 関心領域
+
+### Research Fields
+
+`地理情報科学` `行動地理学` `社会地理学` `時間地理学` `移民地理` `災害地理学`
+
+<br>
+
+### 研究の背景と問題意識
+
+**技能実習制度における「見えない存在化」の問題**
+
+日本の技能実習制度は、アジア諸国からの実習生受け入れの中核を担っています。しかし近年、以下のような現象が顕著化しています：
+
+-  **失踪・流出の増加**：実習中の失踪件数9,753人（2023年）、特に地方圏から大都市への流出が加速
+-  **制度目的と実態の乖離**：国際技能移転を掲げながら、実際には低賃金労働の補填に利用される現実
+-  **「顔の見えない定住化」**：職住一体の管理体制により、受け入れ社会とは社会的に「見えない存在」となる可能性が高い（梶田ほか 2005）
+
+<br>
+
+### 既往研究における課題
+
+既存研究の多くは、制度批判や労働権侵害といった**マクロなレベルでの問題指摘**に重点を置いてきました。一方で、**実習生が日常的にどのような生活世界を営んでいるのか**、そして**地域社会との関係の中でいかなる空間的・社会的制約に直面しているのか**といった、ミクロで生活実態に即した地理学的研究は、相対的に停滞してきました（馮 2012；宋 2017；Okumura 2021 ）。
+
+> 技能実習生が日常的にいつ、どこで、誰と、何をしているのか  
+> この問いに答えることで初めて、制度的制約と個人の選択肢、そして受け入れ地域との関係が、  
+> 実際の生活にいかに影響するのかが見えてくると考えています。
+
+<br>
+
+### 理論的フレームワーク：時間地理学的アプローチ
+
+研究のアプローチとして、**時間地理学（Time Geography）** の視点を採用しています。Hägerstrand (1970) が提唱したこのアプローチは、個人の日常生活を**時間軸と空間軸の交差**の中で捉え、その制約要因を明らかにしようとするものです。
+
+**時間地理学が示唆すること**
+
+個人が時空間の中で営む行動は、以下の3つの層の制約によって規定されます：
+
+| 制約 | 意味 |
+|:---:|---|
+| **能力の制約** | 睡眠・食事など、生物学的に必須な活動 |
+| **結合の制約** | 職場・学校など、特定の時空間への「結びつき」 |
+| **権威の制約** | 法律・組織ルール・社会規範 |
+
+技能実習生の場合、特に**結合の制約**（職場と宿舎の往復）と**権威の制約**（外出規制、門限、企業による生活指導）が強く作用していることが考えられます。この「構造的に限定された時空間」の中で、いかなる生活や社会関係の姿が存在しているのかを問うことが、本研究の中核です。
+
+<br>
+
+### 目指す研究成果と社会的意義
+
+本研究は、以下の観点から、日本の外国人受け入れ政策とその地域的実践に対して、実証的な知見を提供することを目指します：
+
+**学術的貢献**
+```
+→ ミクロな生活実態からみた技能実習生の行動制約構造の解明
+→ 「見えない存在化」のメカニズムに対する地理学的理解の深化
+```
+
+**社会的含意**
+```
+→ 技能実習生の「生活者」としての現実の可視化
+→ 制度設計と地域実践の改善に向けた実証的課題の提示
+→ 包摂的な外国人受け入れのあり方に関する基礎的知見の提供
+```
+
+<br>
+
+---
+
+## 📖 論文・学位論文
+
+### 学位論文
+
+<table>
+<tr>
+<td valign="top">
+
+**2024年度 駒澤大学 卒業論文**
+
+</td>
+<td>
+
+*岩手県大槌町における災害弱者の行動分析*  
+*— 東南アジア系外国人労働者を事例に —*
+
+📄 [要旨を見る](./docs/graduation_thesis_abstract.md)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🎓 学歴
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**2025年4月 –**
+
+</td>
+<td>
+
+[東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/) 先端環境創成学専攻 **博士前期課程**
+
+環境地理学分野（中谷友樹研究室）
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**2025年3月**
+
+</td>
+<td>
+
+[駒澤大学文学部地理学科](https://www.komazawa-u.ac.jp/gakubu/bun/geography/) **地域文化研究専攻 卒業**
+
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**2021年3月**
+
+</td>
+<td>
+
+[岩手県立釜石高等学校](https://www2.iwate-ed.jp/kas-h/) **卒業**
+
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🏆 受賞歴
+
+<details open>
+<summary><b>📌 2021年（学部1年）</b></summary>
+<br>
+
+**Yahoo賞 — Civictech Challenge Cup U-22**
+
+津波避難支援アプリ「なみ逃げ」を開発。
+
+- 📰 [駒澤大学広報紹介ページ](https://www.komazawa-u.ac.jp/news/extracurricular/2021/1215-10942.html)
+- 📋 [プロダクト概要](https://hackmd.io/@goEztN4ITr6_QPGyhqP-9g/rkaz2W3f9?fbclid=PAZXh0bgNhZW0CMTEAAabmKU7M4kgvWlF1fUVnETmeep4m7NJlPleZdQnLR7fv-m5IUxhIce2lbgQ_aem_8Z62qI2RRWkHwRc0imO89A)
+- 🎥 [最終審査会アーカイブ](https://www.youtube.com/watch?v=PB4Wg-y1JrI)
+- 🌐 [公式ホームページ](https://ccc2021.code4japan.org/)
+- 📰 [PRタイムズプレスリリース（2021年10月18日）](https://prtimes.jp/main/html/rd/p/000000039.000039198.html)
+
+</details>
+
+<details>
+<summary><b>📌 2022年（学部2年）</b></summary>
+<br>
+
+**学長奨励賞**  
+[授与式ページ](https://www.komazawa-u.ac.jp/news/event/2022/0320-14040.html) · [大学広報（2022年3月23日発行）](https://www.komazawa-u.ac.jp/about/public-relations/news/2022/0330-11791.html)
+
+**令和4年度学長学業奨励賞**  
+[授与式ページ](https://www.komazawa-u.ac.jp/news/event/2022/0623-12238.html)
+
+</details>
+
+<details>
+<summary><b>📌 2023年（学部3年）</b></summary>
+<br>
+
+**令和5年度学長学業奨励賞**
+
+- 🎓 [授与式ページ](https://www.komazawa-u.ac.jp/news/event/2023/0512-14306.html)
+- 🏅 [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z0ZhSDZNVVVQWWpORk9vVTgwYm9OUT09)
+
+</details>
+
+<details>
+<summary><b>📌 2024年（学部4年）</b></summary>
+<br>
+
+**学業成績優秀者奨学金奨学生**  
+[詳細ページ](https://www.komazawa-u.ac.jp/news/event/2024/0520-15747.html)
+
+**令和6年度学長学業奨励賞**  
+[授与式ページ](https://www.komazawa-u.ac.jp/news/event/2024/0704-15935.html) · [OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/Z2gzMXR4ajFuZkZYSDFXTmZZQXhiQT09)
+
+**令和6年度学長賞**  
+[OpenBadge](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R0I1Y1Rpc1c3WEQ1NFRkMDJIVGxkUT09)
+
+**令和6年度地理学科特別賞**
+
+**令和6年度地理学科奨励賞**
+
+**駒澤大学応用地理研究所 · 若手地理学研究者育成制度**  
+2025年日本地理学会春季学術大会での研究発表に際して受賞
+
+</details>
+
+<br>
+
+---
+
+## 🎤 学会発表・招待講演
+
+<details open>
+<summary><b>2025年2月15日 — 令和6年度釜石高等学校SSH課題研究発表会</b></summary>
+<br>
+
+**招待講演・助言者として登壇**
+
+講演テーマ： *「SSH探究活動と発展的研究」*
+
+- 📖 [発表の様子（詳細）](./docs/SSH_seminar.md)
+- 📋 [実施要項](https://www2.iwate-ed.jp/kas-h/contents/R6/full/SSH_presentation.pdf)
+
+</details>
+
+<details>
+<summary><b>2025年3月16日 — 日本地理教育学会 全国地理学専攻学生卒業論文発表大会</b></summary>
+<br>
+
+- 📋 [大会案内](https://www.geoedu.jp/sotsuron.html)
+- 📋 [大会プログラム](https://www.geoedu.jp/sotupro2024.pdf)
+
+要旨・発表内容については、日本地理教育学会HP掲載後に共有予定。
+
+</details>
+
+<details>
+<summary><b>2025年3月19日～3月21日 — 2025年日本地理学会春季学術大会</b></summary>
+<br>
+
+- 📋 [大会プログラム](https://www.ajg.or.jp/wp-content/uploads/2025/03/s2025_program.pdf)
+- 📄 [発表要旨](https://www.jstage.jst.go.jp/article/ajg/2025s/0/2025s_162/_pdf/-char/ja)
+
+**本発表は、駒澤大学応用地理研究所「若手地理学研究者育成制度」による助成を受けました。**
+
+</details>
+
+<details>
+<summary><b>2025年9月20日～9月22日 — 2025年日本地理学会秋季学術大会</b></summary>
+<br>
+
+**演題：** *仙台市中心部における放置自転車の空間的分布*
+
+**著者：** 小坪将輝・関根良平・磯田弦・井上大輝・**児玉尚汰**・菅井翔・田中文理・中尾太一・中谷友樹（東北大学）
+
+- 📋 [大会プログラム](https://www.ajg.or.jp/wp-content/uploads/2025/08/a2025_program.pdf)
+- 📄 [発表要旨](https://www.jstage.jst.go.jp/article/ajg/2025a/0/2025a_22/_pdf/-char/ja)
+
+</details>
+
+<details>
+<summary><b>2026年2月 — 令和7年度釜石高等学校SSH課題研究発表会</b></summary>
+<br>
+
+**招待講演**
+
+講演演題： *「地図を武器に社会の課題へ挑む『地理情報科学』の世界」*
+
+講演者： 児玉尚汰（東北大学大学院）
+
+</details>
+
+<br>
+
+---
+
+## 📚 担当経験のある科目（授業）
+
+<table>
+<tr>
+<td align="center" width="20%"><b>期間</b></td>
+<td width="35%"><b>科目名</b></td>
+<td align="center" width="20%"><b>大学</b></td>
+<td align="center" width="25%"><b>役割</b></td>
+</tr>
+<tr>
+<td align="center">2024.04–<br>2025.01</td>
+<td>地域文化演習D (演習)</td>
+<td align="center">駒澤大学</td>
+<td align="center"><b>SA</b><br>(Student Assistant)</td>
+</tr>
+<tr>
+<td align="center">2025.10–<br>2026.01<br></td>
+<td>地理学 (講義)</td>
+<td align="center">東北大学</td>
+<td align="center"><b>TA</b><br>(Teaching Assistant)</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="figure/SA_openbadge.png" width="120" alt="SA OpenBadge" style="margin-top:12px;"/>
+</div>
+
+<br>
+
+---
+
+## 🔬 学術貢献活動
+
+**瀬戸寿一 (2024)**  
+「データ品質検証ツールを用いたOpenStreetMapにおける編集傾向と特徴」  
+*地理情報システム学会講演論文集*, 33, 1–4.
+
+📌 分析データの整理  
+🔗 [researchmap](https://researchmap.jp/tosseto/published_papers/48310292)
+
+<br>
+
+**瀬戸寿一 (2025)**  
+「書評 ロブ・キチン, トレーシー・P・ローリオ, マシュー・W・ウィルソン編『空間メディアを理解すること』」  
+*駒澤地理*, 61, 43–47.
+
+📌  評者の討論に参加  
+🔗 [DOI: 10.69200/0002033845](https://komazawa-u.repo.nii.ac.jp/records/2033845)
+
+<br>
+
+**瀬戸寿一 (2025)**  
+「『地理情報科学と技術の知識体系』改訂版の内容分析から探る現代の地図・GIS教育ニーズ」  
+*地図*, 63(2), 53–64.
+
+📌  データの収集作業に協力  
+🔗 [researchmap](https://researchmap.jp/tosseto/published_papers/50726110)
+
+<br>
+
+**地域文化演習C（3年次瀬戸ゼミ）(2025)**
+「復興まちづくりの現在と情報化」
+
+📌  調査協力  
+🔗 [tosseto-lab](https://tossetolab.github.io/fieldstudies.html)
+
+
+---
+
+## 🏛 所属学会
+
+- **日本地理学会** （2025年～）
+
+<br>
+
+---
+
+## 📜 資格
+
+| | |
+|:---:|:---|
+| 🎓 | **GIS学術士** |
+| 🗺️ | **地域調査士** |
+| 🔧 | **測量士補** |
+| 👨‍🏫 | **教員免許** （中学1種・社会 / 高校1種・地歴・地理歴史 / 高校1種・公民） |
+
+<br>
+
+---
+
+## 💻 Skills & Tools
+
+<div align="center">
+
+### Programming & Analysis
+
+[![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,vscode,blender,notion,flutter,figma&theme=dark)](https://skillicons.dev)
+
+### GitHub Profile
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoshota&theme=github_dark" width="750" alt="GitHub Profile Summary"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=geoshota&color=3d3d4e&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<br>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:12121f,100:0d1117&height=100&section=footer" width="100%"/>
