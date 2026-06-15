@@ -137,8 +137,7 @@
 </td>
 <td>
 
-*岩手県大槌町における災害弱者の行動分析*  
-*— 東南アジア系外国人労働者を事例に —*
+*岩手県大槌町における災害弱者の行動分析*  *— 東南アジア系外国人労働者を事例に —*
 
 📄 [要旨を見る](./docs/graduation_thesis_abstract.md)
 
@@ -161,7 +160,8 @@
 </td>
 <td>
 
-[東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/) 先端環境創成学専攻 **博士前期課程**
+[東北大学大学院環境科学研究科](https://www.kankyo.tohoku.ac.jp/) 先端環境創成学専攻 
+**博士前期課程**
 
 環境地理学分野（中谷友樹研究室）
 
@@ -428,7 +428,7 @@
 
 ### Programming & Analysis
 
-[![My Skills](https://skillicons.dev/icons?i=r,md,postgres,github,vscode,blender,notion,flutter,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,md,postgres,github,vscode,blender,notion,flutter,figma&theme=dark)](https://skillicons.dev)
 
 ### GitHub Profile
 
