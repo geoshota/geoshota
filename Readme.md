@@ -45,7 +45,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=geoshota&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=777788&text_color=555566&icon_color=4b4b5e&rank_icon=github&count_private=true" width="280" />
 
 </td>
 </tr>
@@ -420,6 +419,8 @@
 ## 🏛 所属学会
 
 - **日本地理学会** （2025年～）
+- **人文地理学会** （2026年～）
+- **地理情報システム学会** （2026年～）
 
 <br>
 
